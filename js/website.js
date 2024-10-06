@@ -1,5 +1,5 @@
 /**
- * This JavaScript file is responsible for handling the AJAX requests assosciated with Assignment 5. Depending on the requests and wether or not the status was succesful,
+ * T Depending on the requests and wether or not the status was succesful,
  * the DOM will be changed to reflect the responses that were received from the server. There will be three buttons, the first button, second button, and third button, each
  * of which will expect a response, and will reflect the response on the HTML page within the DOM. The first button will have an event listnere which will listen for the 
  * click of the button, and when the button is clicked, an AJAX 'fetch' request is made to the csunix URL, which will convert the response made into text, and be displayed 
@@ -15,8 +15,8 @@
  * emphasizing on the use of AJAX requests.
  */
 
-/** BRENDAN DILEO, 000879513. USE OF BOOTSTRAP, AND HELP OF W3SCHOOLS */
-/** SA0001: I BRENDAN JOHN DILEO, 000879513 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else. */
+/** BRENDAN DILEO. USE OF BOOTSTRAP, AND HELP OF W3SCHOOLS */
+/** SA0001: I BRENDAN JOHN DILEO, certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else. */
 
 
 /**
